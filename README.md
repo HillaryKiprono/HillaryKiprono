@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HillaryKiprono
+-  Hi, 👋 I’m @HillaryKiprono
 - 👀 I’m interested in  Android Application Development
 - 🌱 I’m currently learning PHP for the backend development
 - 💞️ I’m looking to collaborate with other mobile app developers.
