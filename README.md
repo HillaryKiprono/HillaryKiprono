@@ -1,6 +1,6 @@
--  Hi,  I’m @HillaryKiprono
-- 👀 I’m interested in  Android Application Development
-- 🌱 I’m currently learning PHP for the backend development
+-  Hi 👋,  I’m Hillary Kiprono
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently working on PHP Laravel for the API
 - 💞️ I’m looking to collaborate with other mobile app developers.
 - 📫 How to reach me on GitHub @HillaryKiprono
 
