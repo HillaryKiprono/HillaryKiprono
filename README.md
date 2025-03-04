@@ -1,6 +1,6 @@
 -  Hi 👋,  I’m Hillary Kiprono
-- 👀 I’m interested in Android Development(Jetpack Compose|Flutter)
-- 🌱 I’m currently re-learning Laravel
+- 👀 I’m interested in Android Development(Jetpack Compose|Flutter) and Web Development(Laravel)
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate with other mobile app developers and web developers(Laravel).
 - 📫 How to reach me on GitHub @HillaryKiprono
 
